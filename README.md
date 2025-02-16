@@ -77,14 +77,7 @@ flask-profile-management/
 ```
 
 ## Routes and Endpoints
-| Route           | Method | Description |
-|----------------|--------|-------------|
-| `/`            | GET/POST | Login page |
-| `/registration` | GET/POST | User registration |
-| `/profile`      | GET | User profile page |
-| `/update`       | GET/POST | Update profile information |
-| `/changepasswd` | POST | Change user password |
-| `/logout`       | GET | Logout user |
+<img width="591" alt="Capture d’écran 2025-02-17 à 02 44 47" src="https://github.com/user-attachments/assets/c4fb27a0-edc5-4caf-bafe-8fc7a1460386" />
 
 ## Additional Notes
 - User passwords are securely hashed using bcrypt.
