@@ -90,24 +90,31 @@ Login page
 <img width="1165" alt="Capture d’écran 2025-02-17 à 02 48 02" src="https://github.com/user-attachments/assets/4794f02c-5234-4ae4-bc6b-8c21e13cb9c0" />
 
 Registration Page
+
 <img width="588" alt="Capture d’écran 2025-02-17 à 02 48 46" src="https://github.com/user-attachments/assets/cd04f6c9-bbe1-4a14-8641-079ac4f4ce58" />
 
 Authentication of the created user
+
 <img width="560" alt="Capture d’écran 2025-02-17 à 02 49 37" src="https://github.com/user-attachments/assets/b790e4fd-a6e2-4469-8098-9985503aac68" />
 
 Database
+
 <img width="1429" alt="Capture d’écran 2025-02-17 à 02 50 31" src="https://github.com/user-attachments/assets/19ed5c60-f9bb-444c-a782-a60fea3a8f01" />
 
 Profile Page
+
 <img width="1027" alt="Capture d’écran 2025-02-17 à 02 51 21" src="https://github.com/user-attachments/assets/72d3a16d-7dee-49b0-841d-2a164ee54864" />
 
 Edit User Information and upload photo
+
 <img width="1059" alt="Capture d’écran 2025-02-17 à 02 53 12" src="https://github.com/user-attachments/assets/81a14e9f-7778-4301-8cc4-a0baa9bbb7cc" />
 
 Information Updated
+
 <img width="1036" alt="Capture d’écran 2025-02-17 à 02 53 45" src="https://github.com/user-attachments/assets/6eeda1c4-b85c-4ca5-9fff-32d850011115" />
 
 Password Changed
+
 <img width="1088" alt="Capture d’écran 2025-02-17 à 02 55 49" src="https://github.com/user-attachments/assets/9400618b-7e22-408f-b73c-303a2a230069" />
 
 ---
