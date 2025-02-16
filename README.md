@@ -120,3 +120,7 @@ Password Changed
 ---
 For any issues or improvements, feel free to contribute!
 
+---
+## Contributor
+Yessir GOUTON
+
